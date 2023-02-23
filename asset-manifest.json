@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart-Project/static/css/main.cd647fbd.css",
+    "main.js": "/Shopping-Cart-Project/static/js/main.71797b9e.js",
+    "static/media/dellxps.jpg": "/Shopping-Cart-Project/static/media/dellxps.6ddd6ade2fbf1d143791.jpg",
+    "static/media/hpPavilion.jpg": "/Shopping-Cart-Project/static/media/hpPavilion.8745e15f6719b0614018.jpg",
+    "static/media/developer.jpg": "/Shopping-Cart-Project/static/media/developer.ecd3189964d521644362.jpg",
+    "static/media/acerAspire.jpg": "/Shopping-Cart-Project/static/media/acerAspire.19e4488469fd547ee4bb.jpg",
+    "static/media/sales.jpg": "/Shopping-Cart-Project/static/media/sales.b89192e50261213ec30f.jpg",
+    "static/media/finance.jpg": "/Shopping-Cart-Project/static/media/finance.791edbd58d99015985b0.jpg",
+    "static/media/vivobook.jpg": "/Shopping-Cart-Project/static/media/vivobook.f68030e69ba62eca89b4.jpg",
+    "static/media/computer.png": "/Shopping-Cart-Project/static/media/computer.cbb05620c6649d60ebc6.png",
+    "static/media/microsoftsurface.jpg": "/Shopping-Cart-Project/static/media/microsoftsurface.072d430b11eea30c0f1c.jpg",
+    "static/media/gamingLaptop.png": "/Shopping-Cart-Project/static/media/gamingLaptop.27a25c2e7a30a5922481.png",
+    "static/media/Rog.jpg": "/Shopping-Cart-Project/static/media/Rog.c45324196c6766fb56f2.jpg",
+    "static/media/credit-cards.png": "/Shopping-Cart-Project/static/media/credit-cards.a6d3285dfc070d12ada5.png",
+    "static/media/performance.webp": "/Shopping-Cart-Project/static/media/performance.3a0c4248667e49fc4b63.webp",
+    "static/media/macbook.jpg": "/Shopping-Cart-Project/static/media/macbook.ec3d07b532f21f1d2825.jpg",
+    "static/media/founder.avif": "/Shopping-Cart-Project/static/media/founder.a25578bb10f57563da03.avif",
+    "static/media/pavilion360.jpg": "/Shopping-Cart-Project/static/media/pavilion360.e48e5af703086fb6a32f.jpg",
+    "static/media/acernitro5.webp": "/Shopping-Cart-Project/static/media/acernitro5.628e88a9ffaf76b8374d.webp",
+    "static/media/rogstrix.webp": "/Shopping-Cart-Project/static/media/rogstrix.b285e9530658eb19c57e.webp",
+    "static/media/macbookpro18.webp": "/Shopping-Cart-Project/static/media/macbookpro18.a426bfafa1e57ba2aae7.webp",
+    "static/media/macbookpro.webp": "/Shopping-Cart-Project/static/media/macbookpro.fccbfbe9787b2549d183.webp",
+    "index.html": "/Shopping-Cart-Project/index.html",
+    "main.cd647fbd.css.map": "/Shopping-Cart-Project/static/css/main.cd647fbd.css.map",
+    "main.71797b9e.js.map": "/Shopping-Cart-Project/static/js/main.71797b9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd647fbd.css",
+    "static/js/main.71797b9e.js"
+  ]
+}
